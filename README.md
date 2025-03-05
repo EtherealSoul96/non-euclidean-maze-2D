@@ -15,5 +15,7 @@ The program also has an optional 3D perspective that is created by transforming 
 
 Controls:
 * Move: a, w, s, d
-* toggle 3D view: 3
-* toggle fullscreen: f
+* Create new random maze: space
+* Toggle 3D view: 3
+* Toggle fullscreen: f
+* Hide cursor: C
