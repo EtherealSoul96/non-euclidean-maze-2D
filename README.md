@@ -1,4 +1,4 @@
-# Non Euclidean Maze 2D
+# Non-Euclidean Maze 2D
 Non-Euclidean maze generator that works by connecting triangles in arbitrary graph-like structures.
 
 There is a variable called 'infinite' that you can set to True or False
